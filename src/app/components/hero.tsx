@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 import Typewriter from "typewriter-effect";
+import porfolioPic from "../../Images/porfolio-pic.jpeg";
 
 const Hero = () => {
     return (
@@ -50,7 +51,7 @@ const Hero = () => {
                         alt="hero"
                         width={500}
                         height={500}
-                        src={require("../../Images/porfolio-pic.jpeg")}
+                        src={porfolioPic}
                     />
                 </div>
             </div>

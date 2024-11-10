@@ -21,7 +21,7 @@ const About = () => {
               About Me
             </h1>
             <p className="mb-5 leading-relaxed">
-            Hello, I'm Muhammad Saad Raza, a passionate frontend developer with a keen interest in artificial intelligence (AI). I am currently pursuing my studies in AI while continuously enhancing my skills in web development. With a background in programming and a growing knowledge of technologies like TypeScript and Next.js, I aim to create engaging and user-friendly websites. I believe in constant learning and strive to stay updated with the latest trends in technology to deliver high-quality solutions.
+            Hello, I&apos;m Muhammad Saad Raza, a passionate frontend developer with a keen interest in artificial intelligence (AI). I am currently pursuing my studies in AI while continuously enhancing my skills in web development. With a background in programming and a growing knowledge of technologies like TypeScript and Next.js, I aim to create engaging and user-friendly websites. I believe in constant learning and strive to stay updated with the latest trends in technology to deliver high-quality solutions.
             </p>
             <div className="flex justify-center">
               <a href={"/"}>
